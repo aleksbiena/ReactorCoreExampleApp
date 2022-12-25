@@ -1,2 +1,2 @@
 # ReactorCoreExampleApp
-ReactorCoreExampleApp provides basic examples of use Reactor Core.
+ReactorCoreExampleApp provides basic use examples of Reactor Core.
